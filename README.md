@@ -1,1 +1,1 @@
-# docker-phoenix
+# docker-elixir
